@@ -1,0 +1,6 @@
+path: /Users/aftaabhussain/Work/yolo segmentation/B4/data
+train: images/train
+val: images/val
+
+nc: 3
+names: ['sticker','background','cattle']
